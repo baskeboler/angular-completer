@@ -30,7 +30,7 @@ import { DataService } from './services/data.service';
   ]
 })
 export class NgxCompleterModule {
-  public static forRoot(): ModuleWithProviders {
+  public static forRoot(): ModuleWithProviders<NgxCompleterModule> {
 
     return {
       ngModule: NgxCompleterModule,
