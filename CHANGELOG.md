@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.3](https://github.com/baskeboler/ngx-completer/compare/v1.0.2...v1.0.3) (2024-05-30)
+
+
+### Bug Fixes
+
+* change package name to angular-complete so it mayu be published in npm ([9e6c96b](https://github.com/baskeboler/ngx-completer/commit/9e6c96ba894b611fbf721030bfc1bb3a4c8819d2))
+
 ## [1.0.2](https://github.com/baskeboler/ngx-completer/compare/v1.0.1...v1.0.2) (2024-05-30)
 
 
