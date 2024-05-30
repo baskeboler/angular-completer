@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/baskeboler/ngx-completer/compare/v1.0.3...v1.0.4) (2024-05-30)
+
+
+### Bug Fixes
+
+* npm publish assets ([d9692fe](https://github.com/baskeboler/ngx-completer/commit/d9692fe81fc0b30914e506004c40c50f0d9c37db))
+
 ## [1.0.3](https://github.com/baskeboler/ngx-completer/compare/v1.0.2...v1.0.3) (2024-05-30)
 
 
