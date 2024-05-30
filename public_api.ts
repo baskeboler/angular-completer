@@ -1,3 +1,4 @@
+export * from './src/app/modules/ngx-completer/ngx-completer.component';
 export * from './src/app/modules/ngx-completer/ngx-completer.module';
 export * from './src/app/modules/ngx-completer/services/data.service';
 export * from './src/app/modules/ngx-completer/services/remote-data.service';
