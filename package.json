@@ -1,6 +1,6 @@
 {
   "name": "angular-completer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -64,8 +64,22 @@
           "changelogTitle": "# Changelog\n\nAll notable changes to this project will be documented in this file. See\n[Conventional Commits](https://conventionalcommits.org) for commit guidelines."
         }
       ],
-      ["@semantic-release/npm", {"assets": ["dist/**"]}],
-      ["@semantic-release/github", {"assets": ["dist/**"]}],
+      [
+        "@semantic-release/npm",
+        {
+          "assets": [
+            "dist/**"
+          ]
+        }
+      ],
+      [
+        "@semantic-release/github",
+        {
+          "assets": [
+            "dist/**"
+          ]
+        }
+      ],
       [
         "@semantic-release/git",
         {
