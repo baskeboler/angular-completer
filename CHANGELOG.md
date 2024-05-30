@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/baskeboler/angular-completer/compare/v1.0.5...v1.0.6) (2024-05-30)
+
+
+### Bug Fixes
+
+* remove angular preset ([34f2b2c](https://github.com/baskeboler/angular-completer/commit/34f2b2c189d862c16ed6cb0cd7e6b92832162fef))
+
 ## [1.0.5](https://github.com/baskeboler/angular-completer/compare/v1.0.4...v1.0.5) (2024-05-30)
 
 
