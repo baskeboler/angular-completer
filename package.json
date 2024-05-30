@@ -54,6 +54,7 @@
     "branches": [
       "master"
     ],
+    "preset": "angular",
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
