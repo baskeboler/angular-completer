@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/baskeboler/ngx-completer/compare/v1.0.0...v1.0.1) (2024-05-30)
+
+
+### Bug Fixes
+
+* initial release ([b3102c3](https://github.com/baskeboler/ngx-completer/commit/b3102c362e6de0979bc6d6926f2a37a0bbbda176))
+
 # 1.0.0 (2024-05-30)
 
 

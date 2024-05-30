@@ -1,6 +1,6 @@
 {
   "name": "ngx-completer",
-  "version": "1.0.1-semantic-release",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
