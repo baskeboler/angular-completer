@@ -1,4 +1,4 @@
-# ngx-completer
+# angular-completer
 
 Auto complete component for Angular.
 
@@ -14,7 +14,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from "@angular/forms";
 import { AppComponent } from './app.component';
-import { NgxCompleterModule } from "ngx-completer";
+import { NgxCompleterModule } from "angular-completer";
 
 @NgModule({
   imports: [
@@ -32,7 +32,7 @@ Add ngx-completer to your component and create a data source:
 
 ```ts
 import { Component } from '@angular/core';
-import { CompleterService, DataService } from 'ngx-completer';
+import { CompleterService, DataService } from 'angular-completer';
 
 @Component({
   selector: 'my-component',
@@ -67,15 +67,6 @@ ngx-completer uses [rxjs](https://github.com/Reactive-Extensions/RxJS) stream as
 There are 2 ready made data sources that can be used to fetch local and remote data but it's also possible to provide
 a custom source that generates a stream of items.
 
-### System.js configuration
-
-Add the following to `System.js` map configuration:
-```ts
-   var map = {
-       ...
-       'ngx-completer': 'node_modules/ngx-completer/bundles/ngx-completer.umd.js'
-   }
-```
 
 
 
