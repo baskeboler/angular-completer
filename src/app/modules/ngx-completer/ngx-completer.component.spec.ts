@@ -1,4 +1,4 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { waitForAsync, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { NgxCompleterComponent } from './ngx-completer.component';
 
@@ -6,7 +6,7 @@ describe('NgxCompleterComponent', () => {
   let component: NgxCompleterComponent;
   let fixture: ComponentFixture<NgxCompleterComponent>;
 
-  beforeEach(async(() => {
+  beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
       declarations: [ NgxCompleterComponent ]
     })
