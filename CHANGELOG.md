@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.7](https://github.com/baskeboler/angular-completer/compare/v1.0.6...v1.0.7) (2024-05-31)
+
+
+### Bug Fixes
+
+* semantic release package root config ([7b2b5f2](https://github.com/baskeboler/angular-completer/commit/7b2b5f21b34ae3f17e6a57852fab7a747e697d05))
+
 ## [1.0.6](https://github.com/baskeboler/angular-completer/compare/v1.0.5...v1.0.6) (2024-05-30)
 
 
