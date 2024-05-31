@@ -1,6 +1,6 @@
 {
   "name": "angular-completer",
-  "version": "1.0.7",
+  "version": "1.0.10-semantic-release",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
