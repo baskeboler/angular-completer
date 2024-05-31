@@ -66,9 +66,7 @@
       [
         "@semantic-release/npm",
         {
-          "assets": [
-            "dist"
-          ]
+          "pkgRoot": "dist"
         }
       ],
       [
