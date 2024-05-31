@@ -1,5 +1,8 @@
 # angular-completer
 
+[![Release](https://github.com/baskeboler/angular-completer/actions/workflows/npm-publish.yml/badge.svg?event=release)](https://github.com/baskeboler/angular-completer/actions/workflows/npm-publish.yml)
+![NPM Version](https://img.shields.io/npm/v/angular-completer)
+
 Auto complete component for Angular.
 
 This component is based on [ng2-completer](https://github.com/oferh/ng2-completer) by [Ofer Herman](https://github.com/oferh)
