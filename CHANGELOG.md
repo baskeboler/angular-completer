@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.11](https://github.com/baskeboler/angular-completer/compare/v1.0.10...v1.0.11) (2024-05-31)
+
+
+### Bug Fixes
+
+* semantic release github ([1cb143e](https://github.com/baskeboler/angular-completer/commit/1cb143e7d25b22bf277455c4948a8fda6c9c68a9))
+
 ## [1.0.10](https://github.com/baskeboler/angular-completer/compare/v1.0.9...v1.0.10) (2024-05-31)
 
 
